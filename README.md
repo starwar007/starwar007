@@ -20,7 +20,8 @@
 </div>
 
 ### Обо мне :
-- :sunglasses: Позитивный человек,энтузиаст :sunny:
+- :sunglasses: Позитивный человек :sunny:
+- :point_up: энтузиаст
 - :desktop_computer: Изучаю HTML, CSS, JS, React
 - :clapper: В свободное время смотрю детективы :mag:
 
